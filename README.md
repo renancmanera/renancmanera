@@ -1,4 +1,4 @@
-## Olá! Eu sou o Renan 🖐️
+## Olá! Eu sou o Renan 👋
 
 <a href="https://github.com/renancmanera/convoychat">
   <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=renancmanera&layout=compact&langs_count=8&theme=dracula&card_width=320" />
