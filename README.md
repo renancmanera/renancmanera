@@ -1,13 +1,10 @@
 ## Olá! Eu sou o Renan 👋
 
-<div>
-<a href="https://github.com/renancmanera/convoychat">
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=renancmanera&layout=compact&langs_count=8&theme=dracula&card_width=320&cache_seconds=1800" />
-</a>
-
-
-  </div>
-
+<div style="margin-bottom: 20px;">
+  <a href="https://github.com/renancmanera/convoychat">
+    <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=renancmanera&layout=compact&langs_count=8&theme=dracula&card_width=320&cache_seconds=1800" />
+  </a>
+</div>
 
 <div style="display: inline_block">
   <img align="center" alt="Html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40"/>
@@ -18,6 +15,7 @@
   <img align="center" alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="40"/>
   <img align="center" alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="40"/>
 </div>
+
 
 
 
