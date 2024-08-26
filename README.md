@@ -6,7 +6,7 @@
   </a>
 </div>
 
-<div style="display: inline_block">
+<div style="display: inline_block; margin-top: 20px;">
   <img align="center" alt="Html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40"/>
   <img align="center" alt="Css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40"/>
   <img align="center" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40"/>
