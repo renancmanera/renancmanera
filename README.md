@@ -2,7 +2,7 @@
 
 <div>
   <a href="https://github.com/renancmanera/convoychat">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaolouback&show_icons=true&locale=en&layout=compact" alt="renancmanera"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=renancmanera&show_icons=true&locale=en&layout=compact" alt="renancmanera"/>
 </a>
   </a>
 </div>
