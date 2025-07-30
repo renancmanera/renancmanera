@@ -5,7 +5,7 @@
   <img align="center" alt="Go" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" width="40"/>
 </div>
 
-<br><br>
+<br>
 
 <div>
   <a href="https://www.linkedin.com/in/renanmanera" target="_blank">
