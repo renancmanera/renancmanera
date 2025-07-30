@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Renan 👋  
-<br>
+
 
 <div style="display: inline_block;">
   <img align="center" alt="Go" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" width="40"/>
