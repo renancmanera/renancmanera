@@ -7,5 +7,5 @@
 <hr>
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=go,javascript,postgresql,docker,n8n" alt="Minhas Skills" />
+  <img src="https://skillicons.dev/icons?i=go,javascript,postgresql" alt="Minhas Skills" />
 </a>
