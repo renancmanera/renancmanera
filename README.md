@@ -1,4 +1,4 @@
-### Sou **Desenvolvedor Backend** na [Uticket](https://uticket.com.br)
+### 👋 Sou **Desenvolvedor Backend** na [Uticket](https://uticket.com.br)
 
 <div style="display: inline_block;">
   <img align="center" alt="Golang" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" width="40"/>
