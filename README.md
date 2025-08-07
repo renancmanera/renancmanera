@@ -6,7 +6,6 @@ Sou **Desenvolvedor Backend** na [Uticket](https://uticket.com.br)
   <img align="center" alt="Go" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" width="40"/>
   <img align="center" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40"/>
   <img align="center" alt="SQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="40"/>
-  <img align="center" alt="n8n" src="https://seeklogo.com/images/N/n8n-logo-4AB522E00F-seeklogo.com.png" height="40" width="40"/>
 </div>
 
 <br>
