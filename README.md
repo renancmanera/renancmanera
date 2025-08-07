@@ -1,23 +1,11 @@
-### 👋 Sou **Desenvolvedor Backend** na [Uticket](https://uticket.com.br)
+<p>👨‍💻 Desenvolvedor Backend na <a href="https://uticket.com.br" target="_blank">Uticket</a></p>
+<p>💡 Trabalho com <strong>Golang</strong>, <strong>JavaScript</strong>, <strong>PostgreSQL</strong> e <strong>n8n</strong> em sistemas e automações</p>
+<p>🎓 Estudante de Ciência da Computação</p>
+<p>🌱 Em constante evolução profissional com Go, estudando boas práticas e padrões de arquitetura</p>
+<p>🔗 <a href="https://www.linkedin.com/in/renanmanera" target="_blank">Meu LinkedIn</a></p>
 
-<div style="display: inline_block;">
-  <img align="center" alt="Golang" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" width="40"/>
-  <img align="center" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40"/>
-  <img align="center" alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="40"/>
-</div>
+<hr>
 
-<br>
-
-### 🚀 Tecnologias que utilizo no dia a dia
-- **Golang** para manutenção, evolução e integração de APIs
-- **JavaScript** para automações e soluções pontuais
-- **SQL/PostgreSQL** para modelagem, consultas e manipulação de dados
-- **n8n** para automação de processos e orquestração de tarefas internas
-
-<br>
-
-<div>
-  <a href="https://www.linkedin.com/in/renanmanera" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</div>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=go,javascript,postgresql,docker,n8n" alt="Minhas Skills" />
+</a>
