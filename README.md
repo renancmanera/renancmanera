@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Renan 👋  
 
-Sou **Desenvolvedor Backend** na [Uticket](https://uticket.com.br)
+Sou **Desenvolvedor Backend** na [Uticket](https://uticket.com.br), atuando com **Golang**, **JavaScript** e **SQL** no desenvolvimento e manutenção de sistemas internos.
 
 <div style="display: inline_block;">
   <img align="center" alt="Go" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" width="40"/>
@@ -10,11 +10,11 @@ Sou **Desenvolvedor Backend** na [Uticket](https://uticket.com.br)
 
 <br>
 
-### 🚀 Tecnologias que uso no dia a dia
-- **Golang** para construção e manutenção de API robusta
-- **JavaScript** para scripts de automação e integrações
-- **SQL/PostgreSQL** para consulta, ajustes e estruturação de dados
-- **n8n** para automações de processos internos e integrações low-code
+### 🚀 Tecnologias que utilizo no dia a dia
+- **Golang** para manutenção, evolução e integração na API
+- **JavaScript** para scripts de automação e soluções pontuais
+- **SQL/PostgreSQL** para manipulação e modelagem de dados
+- **n8n** para automação de processos e orquestração de tarefas internas
 
 <br>
 
