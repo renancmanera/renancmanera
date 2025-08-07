@@ -1,4 +1,4 @@
-### Sou **Desenvolvedor Backend** na [Uticket](https://uticket.com.br), atuando com **Golang**, **JavaScript** e **SQL** no desenvolvimento e manutenção de sistemas internos.
+### Sou **Desenvolvedor Backend** na [Uticket](https://uticket.com.br)
 
 <div style="display: inline_block;">
   <img align="center" alt="Go" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" width="40"/>
