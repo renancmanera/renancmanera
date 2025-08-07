@@ -8,6 +8,7 @@ Sou **Desenvolvedor Backend** na [Uticket](https://uticket.com.br), atuando com 
   <img align="center" alt="SQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="40"/>
 </div>
 
+<br>
 
 ### 🚀 Tecnologias que utilizo no dia a dia
 - **Golang** para manutenção, evolução e integração na API
